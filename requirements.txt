@@ -1,0 +1,5 @@
+pandas 
+spacy
+flask
+scikit-learn
+groq
